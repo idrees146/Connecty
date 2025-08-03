@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/jfx.incubator.richtext.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/jfx.incubator.input.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/jdk.jsobject.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/javafx-swt.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/javafx.web.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/javafx.swing.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/javafx.media.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/javafx.graphics.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/javafx.fxml.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/javafx.controls.jar",
+        "/home/batman/Downloads/javafx-sdk/lib/javafx.base.jar"
+    ]
+}
